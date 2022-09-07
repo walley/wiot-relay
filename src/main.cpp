@@ -102,6 +102,7 @@ void setup_pins()
   pinMode(RELAY, OUTPUT);
   pinMode(10, INPUT_PULLUP);
 }
+
 void setup()
 {
   setup_pins();
